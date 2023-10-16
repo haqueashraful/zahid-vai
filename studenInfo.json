@@ -1,0 +1,91 @@
+[
+  {
+     "id": 1,
+     "name": "MD. Zahid Hasan",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A",
+     "img":"student-img/Zahid.jpg"
+   },
+   {
+     "id": 2,
+     "name": "Imtiaz Hossen",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A+",
+     "img":"student-img/Imtiaz.jpg"
+   },
+   {
+     "id": 3,
+     "name": "Atikul Islam",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A+",
+     "img":"student-img/Rahat.jpg"
+   },
+   {
+     "id": 4,
+     "name": "Ashraful Haque",
+     "age": 22,
+     "major": "Computer Science",
+     "grade": "A+",
+     "img":"student-img/Rana.jpg"
+   },
+   {
+     "id": 5,
+     "name": "MD. Shojib",
+     "age": 22,
+     "major": "Computer Science",
+     "grade": "A",
+     "img":"student-img/Shojib.jpg"
+   },
+   {
+     "id": 6,
+     "name": "Bristy Roy",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A+",
+     "img":"Nai"
+   },
+   {
+     "id": 7,
+     "name": "Shadatullah sagor",
+     "age": 20,
+     "major": "Computer Science",
+     "grade": "A",
+     "img":"student-img/Sagor.jpg"
+   },
+   {
+     "id": 8,
+     "name": "Iqbal Masud Rafi",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A",
+     "img":"student-img/Masud.jpg"
+   },
+   {
+     "id": 9,
+     "name": "Abdullah Al Jihad",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A-",
+     "img":"student-img/Jihad.jpg"
+   },
+   {
+     "id": 10,
+     "name": "Abdullah",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A+",
+     "img":"student-img/Abdullah.jpg"
+   },
+   {
+     "id": 11,
+     "name": "MD. Nur Mohammad",
+     "age": 21,
+     "major": "Computer Science",
+     "grade": "A+",
+      "img":"student-img/Opu.jpg"
+   }
+ ]
+ 
